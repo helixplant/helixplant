@@ -30,5 +30,6 @@
 <h3 align="center">KEEPING ME IN CHECK</h3>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=helixplant&show_icons=true&locale=en" alt="helixplant" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=helixplant&" alt="helixplant" /></p>
-#
+
+# 
 Thanks for stopping by!
