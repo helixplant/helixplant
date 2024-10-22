@@ -13,9 +13,9 @@
 ##### FAVORITE LANGUAGES
 ` java `   ` python `  
 
-##### UPCOMING CTFS
-` ACTIVE 10/19-10/21 Sunshine CTF `
-` 12/13 HTB University CTF Binary Badlands ` 
+##### CTFS
+` COMPLETED 10/19-10/21 Sunshine CTF `
+` UPCOMING  12/13 HTB University CTF Binary Badlands ` 
 
 ### CURRENT PROJECTS 
 ` PolyVerif Autonomous Vehicle Simulation `
