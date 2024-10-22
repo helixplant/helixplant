@@ -14,7 +14,7 @@
 ` java `   ` python `  
 
 ##### CTFS
-` COMPLETED 10/19-10/21 Sunshine CTF `
+` COMPLETED 10/19-10/21 Sunshine CTF ` <br>
 ` UPCOMING  12/13 HTB University CTF Binary Badlands ` 
 
 ### CURRENT PROJECTS 
