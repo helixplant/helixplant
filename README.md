@@ -1,6 +1,6 @@
 <h1 align="center">HELIXPLANT</h1>
 
-<h3 align="center">off to fantastic adventures...</h3>
+<h3 align="center">security researcher - advisory curation @ GitHub</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-serena-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/serena-co/)](https://www.linkedin.com/in/serena-co/)
 [![Website Badge](https://img.shields.io/badge/-conticello.net-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.conticello.net/)](https://www.conticello.net/)
@@ -15,7 +15,7 @@
 
 ##### CTFS
 ` COMPLETED 10/19-10/21 Sunshine CTF ` <br>
-` UPCOMING  12/13 HTB University CTF Binary Badlands ` 
+` COMPLETED  12/13 HTB University CTF Binary Badlands ` 
 
 ### CURRENT PROJECTS 
 ` PolyVerif Autonomous Vehicle Simulation `
