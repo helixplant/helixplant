@@ -8,24 +8,26 @@
 # 
 ### ABOUT ME
 ##### EDUCATION
-` expected grad. May 2025 `  ` b.s in computer sciences `  ` track in cybersecurity engineering `
+` grad. May 2025 `  ` b.s in computer sciences `  ` track in cybersecurity engineering `
  
 ##### FAVORITE LANGUAGES
-` java `   ` python `  
+` java `   ` python `  *learning ruby!*
 
 ##### CTFS
 ` COMPLETED 10/19-10/21 Sunshine CTF ` <br>
 ` COMPLETED  12/13 HTB University CTF Binary Badlands ` 
+` COMPLETED NCAE 2025 Southeast Regionals - 1st place`
 
 ### CURRENT PROJECTS 
-` PolyVerif Autonomous Vehicle Simulation `
 ` CTF WriteUps `
 ` Blind 75 WriteUp `
-` Course Assignment Series (private) `
+
+### COMPLETED PROJECTES
+` PolyVerif Autonomous Vehicle Simulation `
+` Course Assignment Series - University Level (private) `
 
 
-# 
-#
+
 # 
 <h3 align="center">KEEPING ME IN CHECK</h3>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=helixplant&show_icons=true&locale=en" alt="helixplant" />
