@@ -15,15 +15,15 @@
 
 ##### CTFS
 ` COMPLETED 10/19-10/21 Sunshine CTF ` <br>
-` COMPLETED  12/13 HTB University CTF Binary Badlands ` 
+` COMPLETED  12/13 HTB University CTF Binary Badlands ` <br>
 ` COMPLETED NCAE 2025 Southeast Regionals - 1st place`
 
 ### CURRENT PROJECTS 
-` CTF WriteUps `
+` CTF WriteUps ` <br>
 ` Blind 75 WriteUp `
 
 ### COMPLETED PROJECTES
-` PolyVerif Autonomous Vehicle Simulation `
+` PolyVerif Autonomous Vehicle Simulation ` <br>
 ` Course Assignment Series - University Level (private) `
 
 
